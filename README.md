@@ -1,5 +1,7 @@
-TypeScript React AntDesign Demo
+TypeScript React Antd Upload Demo
 =================================
+
+如何在antd中上传一个图片
 
 ```
 npm install
